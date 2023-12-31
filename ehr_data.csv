@@ -1,0 +1,101 @@
+Patient_ID,Age,Gender,Weight_kg,Height_cm,Medical_History,Current_Medications
+1,36,Male,57.21,179.91,Diabetes,
+2,41,Female,52.77,184.78,Hypertension,
+3,38,Male,99.23,167.42,Diabetes Allergies,
+4,22,Female,75.76,186.69,Hypertension Hypertension,Insulin
+5,69,Female,76.23,173.07,Hypertension Allergies,Aspirin
+6,61,Female,62.31,155.21,,
+7,28,Female,97.72,179.08,Hypertension Hypertension,Aspirin
+8,23,Female,64.59,189.69,Allergies Hypertension Hypertension,
+9,48,Female,59.69,162.19,Hypertension Allergies,Statins
+10,60,Male,57.76,171.3,Hypertension Allergies Diabetes,Statins Antibiotics
+11,60,Male,86.25,185.73,Hypertension Allergies,Antibiotics
+12,54,Male,58.44,159.06,,Aspirin Insulin
+13,38,Male,69.89,181.84,,Antibiotics Insulin
+14,70,Male,61.06,160.15,,Insulin
+15,70,Male,60.52,171.29,Allergies Allergies,Insulin Insulin
+16,76,Male,90.19,184.27,Diabetes,Antibiotics Insulin
+17,75,Female,91.23,150.21,Diabetes Allergies,Statins Insulin
+18,78,Male,82.39,152.66,Hypertension,Aspirin
+19,79,Female,60.46,167.65,Diabetes Allergies,Antibiotics Aspirin
+20,72,Male,76.91,153.46,Hypertension,Aspirin
+21,33,Male,67.06,186.96,Hypertension,
+22,58,Male,59.17,160.58,Allergies Diabetes Allergies,Statins Aspirin
+23,44,Male,80.68,189.08,Diabetes Diabetes Hypertension,Antibiotics Antibiotics
+24,67,Male,73.2,162.96,Allergies Diabetes,Statins Aspirin
+25,51,Female,68.48,186.78,,
+26,77,Male,93.68,155.44,Diabetes Diabetes,Statins
+27,58,Female,96.25,183.01,Hypertension,Antibiotics Aspirin
+28,58,Male,93.79,154.26,Hypertension,Aspirin Insulin
+29,56,Female,81.63,176.05,Allergies Allergies Allergies,Aspirin
+30,55,Male,85.1,173.51,Hypertension Allergies,Statins
+31,73,Male,97.95,184.15,Hypertension,Aspirin
+32,59,Male,63.28,170.07,,Statins
+33,76,Male,84.51,188.3,Hypertension Diabetes,Antibiotics
+34,60,Female,62.01,159.81,Hypertension Hypertension,Statins Aspirin
+35,62,Male,88.07,165.77,Allergies Allergies Hypertension,Aspirin
+36,65,Male,90.99,178.24,Diabetes Allergies Diabetes,
+37,54,Female,71.08,165.37,Hypertension Allergies,Aspirin
+38,50,Female,92.04,184.51,Allergies Diabetes Allergies,Antibiotics
+39,40,Male,53.5,167.11,,
+40,32,Male,81.71,177.16,Hypertension,Aspirin Insulin
+41,76,Male,89.11,186.35,Diabetes,Aspirin
+42,80,Female,59.87,189.17,Hypertension Allergies Hypertension,Antibiotics Aspirin
+43,78,Male,76.44,189.81,,
+44,69,Male,91.92,182.03,,Antibiotics Antibiotics
+45,18,Female,61.76,177.53,Hypertension Allergies,Insulin
+46,48,Female,73.17,184.91,Allergies,Insulin
+47,52,Female,65.72,150.13,,Statins Antibiotics
+48,59,Male,79.95,180.14,Diabetes Allergies,Antibiotics
+49,66,Female,54.57,153.0,Hypertension Hypertension,Aspirin
+50,60,Female,66.91,160.08,Allergies,
+51,66,Female,52.89,184.38,Allergies Diabetes Allergies,Aspirin
+52,49,Female,86.87,187.29,Diabetes Hypertension Diabetes,Insulin
+53,54,Female,86.33,159.69,,Aspirin Antibiotics
+54,42,Male,73.75,150.04,Allergies Allergies,Statins Aspirin
+55,21,Male,58.16,173.85,Diabetes,Insulin
+56,57,Female,82.8,164.71,Allergies Hypertension Allergies,Aspirin
+57,63,Male,68.72,181.96,Allergies Diabetes,
+58,69,Male,71.86,178.67,Diabetes Hypertension,
+59,50,Male,74.08,178.01,Diabetes,Antibiotics Aspirin
+60,77,Female,69.03,161.27,Diabetes Allergies,
+61,41,Male,52.95,184.17,Allergies,Insulin Antibiotics
+62,78,Male,78.02,180.66,Hypertension,
+63,41,Male,84.6,178.56,Diabetes,
+64,52,Female,98.06,175.14,Hypertension Allergies,Insulin Insulin
+65,60,Male,82.27,153.86,Allergies,Aspirin Statins
+66,36,Male,84.88,172.48,Diabetes Allergies,
+67,42,Male,70.46,154.82,Hypertension Allergies Diabetes,Insulin
+68,60,Female,64.94,163.68,Allergies Hypertension,
+69,79,Male,98.58,162.9,Hypertension Diabetes Diabetes,Insulin
+70,20,Male,64.32,169.89,Hypertension Diabetes,Insulin
+71,73,Female,77.01,151.69,Diabetes,
+72,51,Male,94.84,176.93,Hypertension Diabetes Hypertension,Insulin
+73,57,Male,93.44,155.74,Allergies,Statins Aspirin
+74,30,Female,52.74,162.19,Allergies,Antibiotics
+75,49,Male,61.25,184.77,,Insulin Statins
+76,78,Male,60.26,182.29,Allergies Hypertension Hypertension,Insulin
+77,34,Female,88.69,178.47,,Aspirin
+78,41,Male,88.04,154.43,Allergies,Antibiotics Insulin
+79,29,Female,53.8,183.52,Allergies Hypertension Allergies,Statins Insulin
+80,24,Male,53.47,185.56,Hypertension,Antibiotics
+81,26,Female,86.17,170.27,Hypertension Diabetes,Statins Statins
+82,18,Female,64.95,154.65,Allergies Allergies,Statins Insulin
+83,63,Female,63.87,163.76,Diabetes Hypertension,Insulin Insulin
+84,64,Male,72.44,177.6,,Statins Aspirin
+85,79,Male,68.77,179.24,Hypertension Allergies,Aspirin Aspirin
+86,34,Female,83.92,161.15,,Antibiotics
+87,22,Male,63.46,185.7,Diabetes,Antibiotics
+88,53,Female,81.18,185.75,,
+89,21,Female,73.12,163.55,Hypertension Hypertension,Aspirin Antibiotics
+90,60,Female,78.93,153.92,Diabetes Hypertension,Insulin Aspirin
+91,58,Female,94.61,154.47,Hypertension Diabetes Allergies,Antibiotics
+92,68,Male,60.58,182.67,,
+93,72,Female,91.85,154.82,Hypertension Allergies Hypertension,Aspirin Aspirin
+94,73,Male,52.22,166.57,Allergies Allergies Diabetes,Antibiotics
+95,67,Male,94.79,189.81,Allergies,Antibiotics
+96,63,Male,70.19,162.58,,Statins
+97,49,Female,57.99,182.83,Hypertension Allergies Allergies,
+98,73,Female,63.69,186.34,Allergies Diabetes Hypertension,Insulin Insulin
+99,74,Female,50.82,159.68,Diabetes Diabetes,Antibiotics
+100,25,Female,82.79,182.34,Allergies Allergies,
